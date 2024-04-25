@@ -1,0 +1,12 @@
+first install all the dependeciens in of requirments.txt
+then 
+run home.py by using stremlit command streamlit run home.py
+
+if u want to use signlogin page then (optional...)
+first run singin login page using streamlit..
+then of back to comand prompt open new terminal and run home.py using streamlit
+then go to login page where u can signup login etc...
+
+in data set option the lip reading is done using pre defined data set
+and in real time this can predict only coop and can....
+
